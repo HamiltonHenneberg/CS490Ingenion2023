@@ -1,3 +1,0 @@
-# CS490 Ingenion Senior Design 2023
-## Ethernet Project
-### Project Vision
