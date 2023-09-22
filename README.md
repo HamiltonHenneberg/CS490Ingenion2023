@@ -1,4 +1,5 @@
-# Embry-Riddle 2023 CS490 Ingenion Senior Design Project
+# Ingeion Telemetry Webserver
+## Embry-Riddle 2023 CS490 Senior Design Project
 
 # Product Vision
 
